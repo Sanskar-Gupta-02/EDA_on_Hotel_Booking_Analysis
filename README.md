@@ -9,7 +9,8 @@ In recent decades, the travel and tourism industry has seen substantial profit g
 
 ### Motivation
 
-*   Address questions like
+  **Address questions like**
+  
 *   Hotel preferences 
 *   Guest origins
 *   Booking trends
